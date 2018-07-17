@@ -69,7 +69,7 @@
       </div>
   </div>
 <div class="container-fluid">
-	<iframe id="mainIframe" name="mainIframe" src="main/welcome" class="module-iframe" scrolling="auto" frameborder="0" style="width:100%;"></iframe>
+	<iframe id="mainIframe" name="mainIframe" src="${ctx}/main/welcome" class="module-iframe" scrolling="auto" frameborder="0" style="width:100%;"></iframe>
 </div>
 </body>
 </html>
