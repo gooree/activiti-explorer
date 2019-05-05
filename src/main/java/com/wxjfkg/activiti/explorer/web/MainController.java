@@ -36,7 +36,7 @@ public class MainController {
 					return "/error/403";
 				}
 			} else {
-				return "/error/403";
+				return "redirect:/login.jsp";
 			}
 		}
         return "/main/index";

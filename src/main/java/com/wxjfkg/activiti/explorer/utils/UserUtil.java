@@ -11,7 +11,7 @@ import javax.servlet.http.HttpSession;
  */
 public class UserUtil {
 
-    public static final String USER = "user";
+    public static final String USER = "LOGIN_USER";
 
     /**
      * 设置用户到session
